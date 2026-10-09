@@ -1,0 +1,6 @@
+info:
+  name: create 12
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/reporting-smoke-4/12
